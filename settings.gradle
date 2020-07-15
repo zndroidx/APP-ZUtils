@@ -1,0 +1,3 @@
+include ':lib_ZUtils'
+include ':app'
+rootProject.name = "APP-ZUtils"
