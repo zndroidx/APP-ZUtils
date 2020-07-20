@@ -1,4 +1,4 @@
-package com.zndroid.utils;
+package com.zndroid.utils.impl;
 
 import android.app.Activity;
 import android.app.ActivityGroup;
@@ -15,6 +15,8 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.zndroid.utils.R;
 
 /**
  * Created by lazy on 2019-11-04
