@@ -1,4 +1,6 @@
 apply plugin: 'com.android.library'
+apply plugin: 'maven'
+apply from: './config.gradle'
 
 android {
     compileSdkVersion 29
